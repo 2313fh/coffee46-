@@ -1,5 +1,5 @@
 /* 4:6 黄金比率コーヒー — Service Worker (offline app shell) */
-const CACHE = 'coffee46-v5';
+const CACHE = 'coffee46-v9';
 
 // Critical shell — must be cached for the app to work offline.
 const SHELL = [
